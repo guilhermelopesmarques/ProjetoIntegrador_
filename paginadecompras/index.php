@@ -53,7 +53,7 @@ include "../includes/cabecalho.php"
 
     <br>
     <br>
-    <div class="container mt-5 ">
+    <div class="container mt-5 w-50">
         <div class="input-group mb-3">
             <button id="btn-subtract" class="btn btn-primary" type="button">-</button>
             <input type="text" id="input-number" class="form-control text-center" value="0" aria-label="Number">

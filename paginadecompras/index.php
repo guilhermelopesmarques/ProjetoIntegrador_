@@ -15,8 +15,8 @@ include "../includes/cabecalho.php"
   <div class="text-center col-md-6 col-xs-x">
     <!-- Conteúdo vazio para ocupar espaço na mesma linha -->
     <br>
-    <p class="text-center fs-4">Lapis Da Farber Castel</p>
-    <p class=" badge bg-danger text-wrap fs-6" style="width: 10rem;">Marca: Faber Castel</p>
+    <p class="text-center fs-4">Lapis Da Farber Castell</p>
+    <p class=" badge bg-danger text-wrap fs-6" style="width: 10rem;">Marca: Faber Castell</p>
     <br>
 
     <div class="estrela">
